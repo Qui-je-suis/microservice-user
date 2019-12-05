@@ -1,3 +1,8 @@
+/**
+ *-------------------------------------------------------------------------
+ * Copyright (C) 2019 QUI JE SUIS !!!. All rights reserved
+ *-------------------------------------------------------------------------
+ */
 package mgb.muser;
 
 import org.springframework.boot.SpringApplication;
